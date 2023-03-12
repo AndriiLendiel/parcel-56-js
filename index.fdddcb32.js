@@ -1,0 +1,2 @@
+function o(o,e,l,n){Object.defineProperty(o,e,{get:l,set:n,enumerable:!0,configurable:!0})}console.log("example");var e={};o(e,"a",(function(){return l})),o(e,"doHomeTask",(function(){return n}));const l="js 56";function n(){console.log("js easy")}var c;c="Hello World",console.log(c),(o=>{console.log(o)})("Hello USA"),console.log("fetch"),console.log(e),console.log(e.a),e.doHomeTask();
+//# sourceMappingURL=index.fdddcb32.js.map

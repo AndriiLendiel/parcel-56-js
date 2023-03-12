@@ -1,0 +1,2 @@
+!function(){function o(o,e,n,l){Object.defineProperty(o,e,{get:n,set:l,enumerable:!0,configurable:!0})}console.log("example");var e={};o(e,"a",(function(){return l})),o(e,"doHomeTask",(function(){return c}));var n,l="js 56";function c(){console.log("js easy")}n="Hello World",console.log(n),function(o){console.log(o)}("Hello USA"),console.log("fetch"),console.log(e),console.log(e.a),e.doHomeTask()}();
+//# sourceMappingURL=index.1f4181e5.js.map
